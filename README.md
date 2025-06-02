@@ -1,6 +1,7 @@
-Flask Blog Web Application
-Tech Stack: Python, Flask, REST API, Object-Oriented Programming, Jinja2, HTML, Bootstrap
+**Flask Blog Web Application**
 
+**Tech Stack: Python, Flask, REST API, Object-Oriented Programming, Jinja2, HTML, Bootstrap
+**
 Developed a dynamic blogging platform using Flask that consumes an external REST API to display posts.
 
 Designed a Post class to encapsulate blog data, enabling clean OOP architecture and efficient data management.
