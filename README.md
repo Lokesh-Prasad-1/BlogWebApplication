@@ -1,4 +1,4 @@
-**Flask Blog Web Application**
+# Flask Blog Web Application
 
 **Tech Stack: Python, Flask, REST API, Object-Oriented Programming, Jinja2, HTML, Bootstrap
 **
